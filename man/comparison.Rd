@@ -10,7 +10,7 @@ comparison(list)
 \item{x}{input is a dataframe for bag of word file in which columns are the terms and row are binary variable 1 if that term exist in that data instance}
 }
 \value{
-visualization of trained algrithms (for classifiying textual data), comparision and select the best!
+visualization of trained algorithms (for classifiying textual data), comparision and select the best!
 }
 \description{
 visualize performance of the algorithm
