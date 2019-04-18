@@ -2,8 +2,8 @@ Package: FinalProjectSTAT585
 Title: Sentiment Analysis of Reviews
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Zahra",
+           family = "Khoshmanesh",
            role = c("aut", "cre"),
            email = "first.last@example.com")
 Description: What the package does (one paragraph).

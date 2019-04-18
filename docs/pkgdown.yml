@@ -2,4 +2,18 @@ pandoc: 1.19.2.1
 pkgdown: 1.3.0.9000
 pkgdown_sha: a267beee11ac619011b359471c66178dc13685ab
 articles: []
+title: SentiAnalyzer: Sentiment analysis for consumer review
+navbar:
+  structure:
+    left: [home, intro, visualization, reference, articles]
+    right:  [github]
+
+
+
+
+template:
+  params:
+    docsearch:
+      api_key: API_KEY
+      index_name: INDEX_NAME
 
